@@ -10,7 +10,7 @@ We're assuming that you have a decent foundation in programming with Python and 
 
 ### Why use `pandas` instead of Excel?
 
-* You want to be ready if the raw data changes to repeat your process. Maybe it's something published regularly, or maybe an error is found in your original source.
+* You want to be ready to repeat your process if the raw data changes. Maybe it's the dataset is published regularly, or maybe an error is found in your original source.
 
 * You want to be able to identify every step you took where you may have made an incorrect assumption, or where you'll need to defend your choices to your editor, or even a lawyer.
 
@@ -54,6 +54,6 @@ If you're with us in Denver for NICAR2016, [... explain how we want to do this .
 If you just want to read through what we did, here are our lesson notebooks:
 
 * Part 1 - set up & basics of the IPython notebook
-* [Part 2](part-2.ipynb) - Open your data & start exploring
+* [Part 2](Part%202.ipynb) - Open your data & start exploring
 * Part 3- Dig deeper & start answering some questions
 * Part 4- Extra Credit: Visualize the data
