@@ -16,7 +16,7 @@ A web browser should open (or come to the foreground). It will look something li
 
 ![Jupyter Notebook Directory view](_images/notebook_start.png)
 
-You can pass arguments to the `jupyter notebook` to open a specific notebook right away, or to open in another directory. Or you can just click on the notebook name. You can also make a new notebook (among other things) by clicking on the "New" menu on the right.
+You can pass arguments to the `jupyter notebook` to open a specific notebook right away, or to open in another directory. Or you can just click on the notebook name in the browser. You can also make a new notebook (among other things) by clicking on the "New" menu on the right.
 
 ![Jupyter Notebook 'new' menu](_images/new_menu.png)
 
@@ -26,7 +26,7 @@ For now, click on `Python 2` to launch a new notebook running a Python 2 kernel.
 
 ## Notebook basics
 
-A notebook is made up of any number of cells. A cell has a type, usually either `python` or `markdown`. There's a menu in the toolbar which you can use to change the current cell type. When it's closed, it tells you the type, although there are other clues you'll get used to.
+A notebook is made up of any number of cells. A cell has a type, `code` or `markdown`. There's a menu in the toolbar which you can use to change the current cell type. When the menu is closed, it tells you the type. (You can also recognize a `code` cellby the presence of `In [ ]:` at the left edge of the cell.
 
 ![Jupyter notebook cell mode menu](_images/cell_type_menu.png)
 
