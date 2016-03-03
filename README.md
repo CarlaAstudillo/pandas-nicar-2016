@@ -55,5 +55,5 @@ If you just want to read through what we did, here are our lesson notebooks:
 
 * Part 1 - set up & basics of the IPython notebook
 * [Part 2](Part%202.ipynb) - Open your data & start exploring
-* [Part 3](Part%303.ipynb)- Dig deeper into more complicated, messy data
-* [Part 4](Part%404.ipynb)- Extra Credit: Visualize the data
+* [Part 3](Part%203.ipynb)- Dig deeper into more complicated, messy data
+* [Part 4](Part%204.ipynb)- Extra Credit: Visualize the data
