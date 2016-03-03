@@ -16,7 +16,7 @@ A web browser should open (or come to the foreground). It will look something li
 
 ![Jupyter Notebook Directory view](_images/notebook_start.png)
 
-You can pass arguments to the `jupyter notebook` to open a specific notebook right away, or to open in another directory. Or you can just click on the notebook name in the browser. You can also make a new notebook (among other things) by clicking on the "New" menu on the right.
+You can pass arguments to the `jupyter notebook` to open a specific notebook right away, or to open in another directory. Or you can just click on the notebook name. You can also make a new notebook (among other things) by clicking on the "New" menu on the right.
 
 ![Jupyter Notebook 'new' menu](_images/new_menu.png)
 
