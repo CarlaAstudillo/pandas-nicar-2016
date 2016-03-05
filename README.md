@@ -49,11 +49,16 @@ We think it's time for most folks to get comfortable using Python 3 -- as of thi
 
 ## Let's do it already
 
-If you're with us in Denver for NICAR2016, [... explain how we want to do this ...]
+If you have everything installed and want to start at the beginning, open a terminal and navigate to the directory where this repository is checked out. When there, execute this command and start at the top.
 
-If you just want to read through what we did, here are our lesson notebooks:
+```bash
+jupyter notebook "Part 1.ipynb"
+```
+Part 1 will introduce you to just enough `jupyter` to follow the lesson, but  we wrote a little general stuff about [jupyter](jupyter.md) if you need it.
 
-* [Part 1](jupyter.md)- set up & basics of the Jupyter notebook
+If you just want to read through what we did or use it for a quick reference, you can browse the notebooks on GitHub:
+
+* [Part 1](Part%201.ipynb)- Getting comfortable with `jupyter notebook`
 * [Part 2](Part%202.ipynb)- Open your data & start exploring
 * [Part 3](Part%203.ipynb)- Dig deeper into more complicated, messy data
 * [Part 4](Part%204.ipynb)- Extra Credit: Visualize the data
