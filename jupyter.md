@@ -26,7 +26,7 @@ For now, click on `Python 2` to launch a new notebook running a Python 2 kernel.
 
 ## Notebook basics
 
-A notebook is made up of any number of cells. A cell has a type, usually either `python` or `markdown`. There's a menu in the toolbar which you can use to change the current cell type. When it's closed, it tells you the type, although there are other clues you'll get used to.
+A notebook is made up of any number of cells. A cell has a type, `code` or `markdown`. There's a menu in the toolbar which you can use to change the current cell type. When the menu is closed, it tells you the type. (You can also recognize a `code` cellby the presence of `In [ ]:` at the left edge of the cell.
 
 ![Jupyter notebook cell mode menu](_images/cell_type_menu.png)
 
